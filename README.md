@@ -46,8 +46,6 @@ The dataset contains over **145,000 Australian weather observations** collected 
 | File | Description |
 |---|---|
 | `weather_notebook.ipynb` | Main Jupyter Notebook |
-| `weatherAUS_2(2).csv` | Australian weather dataset |
-| `CCSN/` | Cloud image classification dataset |
 | `fig1_kmeans_elbow_method.png` | K-Means elbow curve |
 | `fig2_logistic_regression_confusion_matrix.png` | Logistic Regression confusion matrix |
 | `fig3_random_forest_confusion_matrix.png` | Random Forest confusion matrix |
@@ -145,4 +143,16 @@ Then open:
 ```bash
 weather_notebook.ipynb
 ```
+## 📥 Dataset Download Links
 
+### Australian Weather Dataset
+Source: Kaggle — Rain in Australia Dataset
+
+[Rain in Australia Dataset](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package)
+
+### Cloud Image Dataset (CCSN)
+Source: CCSN Cloud Dataset
+
+[CCSN Cloud Dataset](https://github.com/poloclub/cloud-classification-cnn)
+
+---
